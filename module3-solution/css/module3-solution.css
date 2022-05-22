@@ -43,13 +43,15 @@ body{
   margin-top: 6px ;
 }
 
-#nav-list li{
-  text-align: center;
+a.text-center{
   font-family: 'Lora', serif;
   font-size: 1.2em;
   text-transform: uppercase;
   font-weight: bold;
   background-color: navajowhite;
+  margin-bottom: 0;
+  text-shadow: none;
+  color: white;
   border-bottom: 2px solid black;
 }
 
