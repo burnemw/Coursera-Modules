@@ -1,0 +1,87 @@
+body{
+  font-size: 16px;
+  color:black;
+  background-color: dimgray;
+  font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav{
+  background-color: black;
+  padding-top: 5px;
+  border: none;
+  }
+
+.container-fluid .navbar-brand{
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.navbar-brand {
+  padding-top: 10px;
+}
+
+.navbar-brand h1{
+  font-family: 'Lora', serif;
+  color:  white;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 0.75;
+}
+
+.navbar-brand a:hover,.navbar-brand a:focus  {
+  text-decoration: none;
+}
+
+.navbar-collapse{
+  border: none;
+}
+.navbar-toggle{
+  margin-top: 6px ;
+}
+
+#nav-list li{
+  text-align: center;
+  font-family: 'Lora', serif;
+  font-size: 1.2em;
+  text-transform: uppercase;
+  font-weight: bold;
+  background-color: navajowhite;
+  border-bottom: 2px solid black;
+}
+
+.text-center{
+  font-family: 'Lora', serif;
+  color:  white;
+  font-size: 1.8em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-bottom: 20px;
+}
+
+.jumbotron{
+  background-color: tan;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-top: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: justify;
+  color: black;
+}
+
+#main-content{
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.jumbotron p{
+  text-align: center;
+  font-family: 'Lora', serif;
+  padding-bottom: 0px;
+}
+  
